@@ -1,6 +1,7 @@
 <h1 align="center">¡Hola! 👋 este es Alejandro Arellano</h1>
 <h2>Soy..</h2>
-<a href="[https://github.com/DenverCoder1/readme-typing-svg](https://https://github.com/Alejandroarellanocamacho)"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Data+Analyst;Business+Intelligence;Data+Scientist;Papá+Feliz y Orgulloso"/></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Data+Analyst;Business+Intelligence;Data+Scientist;Pap%C3%A1+Feliz+y+Orgulloso)](https://git.io/typing-svg)
 
 ---
 
